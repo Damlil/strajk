@@ -4,7 +4,6 @@ Som användare vill jag kunna boka datum och tid samt ange antal spelare så att
 
 1. Kunna välja datum & tid 
 2. Ange antal spelare & lanes
-3. Reservera bana
 
 
 
